@@ -6,7 +6,7 @@ https://download.freebsd.org/ftp/releases/ISO-IMAGES/11.1/FreeBSD-11.1-RELEASE-a
 
 ![Image 01](https://github.com/sshspb/freebsd-install/blob/master/images/installer-01.bmp) 
 
-Выбор опции `<Install>` вызовет программу-установщик. 
+Выбор опции **Install** вызовет программу-установщик. 
 
 ![Image 02](https://github.com/sshspb/freebsd-install/blob/master/images/installer-02.bmp)
 
@@ -14,7 +14,7 @@ https://download.freebsd.org/ftp/releases/ISO-IMAGES/11.1/FreeBSD-11.1-RELEASE-a
 
 ![Image 03](https://github.com/sshspb/freebsd-install/blob/master/images/installer-03.bmp)
 
-Установка имени хоста, например: machine3.example.com
+Установка имени хоста, например: *machine3.example.com*
 
 ![Image 04](https://github.com/sshspb/freebsd-install/blob/master/images/installer-04.bmp)
 
@@ -34,17 +34,17 @@ https://download.freebsd.org/ftp/releases/ISO-IMAGES/11.1/FreeBSD-11.1-RELEASE-a
 
 ![Image 08](https://github.com/sshspb/freebsd-install/blob/master/images/installer-08.bmp) 
 
-Выражаем согласие, <Finish>
+Выражаем согласие, **Finish**
 
 ![Image 09](https://github.com/sshspb/freebsd-install/blob/master/images/installer-09.bmp) 
 
-<Commit>
+**Commit**
 
 #### После установки
 
 ![Image 10](https://github.com/sshspb/freebsd-install/blob/master/images/installer-10.bmp) 
 
-Вводим пароль для root
+Вводим пароль для *root*
 
 ![Image 11](https://github.com/sshspb/freebsd-install/blob/master/images/installer-11.bmp) 
 
@@ -52,11 +52,11 @@ https://download.freebsd.org/ftp/releases/ISO-IMAGES/11.1/FreeBSD-11.1-RELEASE-a
 
 ![Image 12](https://github.com/sshspb/freebsd-install/blob/master/images/installer-12.bmp) 
 
-<Yes>, использовать протокол IPv4
+**Yes**, использовать протокол IPv4
 
 ![Image 13](https://github.com/sshspb/freebsd-install/blob/master/images/installer-13.bmp) 
 
-<No>, сервис DHCP не нужен,
+**No**, сервис DHCP не нужен,
 
 ![Image 14](https://github.com/sshspb/freebsd-install/blob/master/images/installer-14.bmp) 
 
@@ -64,7 +64,7 @@ https://download.freebsd.org/ftp/releases/ISO-IMAGES/11.1/FreeBSD-11.1-RELEASE-a
 
 ![Image 15](https://github.com/sshspb/freebsd-install/blob/master/images/installer-15.bmp) 
 
-<No>, Протокол IPv6 не нужен
+**No**, Протокол IPv6 не нужен
 
 ![Image 16](https://github.com/sshspb/freebsd-install/blob/master/images/installer-16.bmp) 
 
@@ -84,14 +84,14 @@ https://download.freebsd.org/ftp/releases/ISO-IMAGES/11.1/FreeBSD-11.1-RELEASE-a
 
 ![Image 20](https://github.com/sshspb/freebsd-install/blob/master/images/installer-20.bmp) 
 
-Exit, <OK>
+Exit, **OK**
 
 ![Image 21](https://github.com/sshspb/freebsd-install/blob/master/images/installer-21.bmp) 
 
-<No>, не желаем продолжать конфигурировать вручную
+**No**, не желаем продолжать конфигурировать вручную
 
 ![Image 22](https://github.com/sshspb/freebsd-install/blob/master/images/installer-22.bmp) 
 
-<Reboot>, желаем перезагрузку
+**Reboot**, желаем перезагрузку
 
 При перезагрузке надо умудриться вынуть компакт-диск.
