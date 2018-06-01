@@ -5,7 +5,7 @@ https://download.freebsd.org/ftp/releases/ISO-IMAGES/11.1/FreeBSD-11.1-RELEASE-a
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-!(https://github.com/sshspb/freebsd/images/installer-01.bmp) Выбор вариантов работы установочного носителя
+!(https://github.com/sshspb/freebsd-install/blob/master/images/installer-01.bmp) Выбор вариантов работы установочного носителя
 Выбор опции [ Install ] вызовет программу-установщик. 
 
 installer-02.bmp Выбор раскладки клавиатуры 
