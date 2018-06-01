@@ -114,7 +114,7 @@ Exit, **OK**
 # shutdown -p now
 ```
 
-Предоставить право останавливать FreeBSD пользователю user_name
+Предоставить право давать команду `shutdown` пользователю user_name
 ```
 # pw groupmod operator -m user_name
 ```
